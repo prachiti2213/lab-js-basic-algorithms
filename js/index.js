@@ -1,5 +1,5 @@
 // Iteration 1: Names and Input
-//let hacker1 = 'Robin Hobb';
+let hacker1 = 'Robin Hobb';
 console.log(The driver's name is ${hacker1});
 
 let hacker2 = 'Taylor Jenkins Reid';
